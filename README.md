@@ -49,7 +49,8 @@ student-list-master/
 ### 1. Préparation de l'environnement
 - Clonez le dépôt :
   
-  git clone https://github.com/votre-utilisateur/student-list-master.git
+  git clone  https://github.com/Abdoula223/Projet-Pozos-Docker-harbor.git
+ 
   cd student-list-master
   
 
